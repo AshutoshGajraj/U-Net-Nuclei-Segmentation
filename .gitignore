@@ -12,3 +12,5 @@ wheels/
 # Data Folders
 stage1_train
 stage1_test
+Segmentation Using MONAI and PyTorch/utils/datasets
+Segmentation Using MONAI and PyTorch/trained_unet.pth
